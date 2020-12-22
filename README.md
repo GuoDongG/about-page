@@ -11,4 +11,4 @@ a simple about page
 
 images文件夹内图片请自行更换，谢谢
 
-若要进行更进一步的修改（如配色方案、背景图片与页面布局），请编辑 index.css 与 stylesheets/*.css。
+若要进行更进一步的修改（如配色方案、背景图片与页面布局），请编辑'ndex.css'和'tylesheets/*.css'
