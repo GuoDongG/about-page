@@ -5,6 +5,12 @@ a simple about page
 
 访问http://moe.moebili.tk/about 可以看最终效果
 
+(现在不行了QAQ，域名忘记续费了，现在请到http://timespy.ddns.net:800/about 查看最终效果)
+
+也欢迎访问我的blog: http://moe.moebili.tk
+
+(现在也不行了QAQ，域名忘记续费了，现在请到http://timespy.ddns.net:800/)
+
 只做了些许改动，实测可用
 
 # 注意
