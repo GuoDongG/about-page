@@ -7,9 +7,13 @@ a simple about page
 
 (现在不行了QAQ，域名忘记续费了，现在请到http://timespy.ddns.net:800/about 查看最终效果)
 
+(241125更：我的公网IP被河北电信干了！预览等我寒假回去的QAQ)
+
 也欢迎访问我的blog: http://moe.moebili.tk
 
 (现在也不行了QAQ，域名忘记续费了，现在请到http://timespy.ddns.net:800/)
+
+(241125更：我的公网IP被河北电信干了！预览也得等我寒假回去的QAQ)
 
 只做了些许改动，实测可用
 
